@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+xgboost
+tqdm
+requests
+python-dotenv
+Pillow
+torch
+torchvision
