@@ -12,4 +12,4 @@ python -m venv .venv
 source .venv/bin/activate   # Linux/Mac
 # .venv\Scripts\activate    # Windows
 pip install -U pip
-pip install pandas numpy openpyxl scikit-learn xgboost tqdm requests python-dotenv Pillow torch torchvision
+pip install -r requirements.txt
